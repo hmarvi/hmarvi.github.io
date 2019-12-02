@@ -1,7 +1,4 @@
----
-layout: "page"
 
----
 # Geospatial Data Explorers
 
 The link to this page is [this](https://hmarvi.github.io/index.html)
