@@ -18,7 +18,41 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 | https://sensors.ioos.us/#map  | PHP  | JavaScript  | nginx  | -  | Font Awesome, Google Font API  | -  | CExpressJS  | Amazon  | GStatic Google Static Content Usage Statistics  | -  | Leaflet  | Not sure! (xhr request??!) | Backbone.js, Marionette, underscore, D3, Hogan  | Node.Js's frame work (ExpressJs)  | Best among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons.  |
  https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5  | PHP  | JavaScript  | Apache | Drupal  | MailChimp, Font Awesome, ThemePunch  | - | -  | -  | -  | -  | -  | PNG, JPEG, bmp  | Hammer, JQuery, utilJS, Onion,JS,CommonJS  | OWL Carousel  | - |
 | https://podaac-tools.jpl.nasa.gov/soto  | PHP  | JavaScript  | Apache | Drupal  | Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL  | Amazon  | - | Amazon cloud front  | CrazyEgg  | Leaflet  | Content Cell  | html5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter | -  | -  |
-{: .my-class }
+
+<table class="tg">
+  <tr>
+    <th class="tg-baqh" colspan="2">Some values</th>
+  </tr>
+  <tr>
+    <th class="tg-baqh">Material</th>
+    <th class="tg-baqh">Value</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">A</td>
+    <td class="tg-baqh">0.75</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">B</td>
+    <td class="tg-baqh">0.47</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">0.4 - 0.7</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">1.0 - 1.8</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">S</td>
+    <td class="tg-baqh">0.15 - 2.0</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">W</td>
+    <td class="tg-baqh">0.07 - 0.17</td>
+  </tr>
+</table>
+
 
 ## Sources: 
 https://w3techs.com/
