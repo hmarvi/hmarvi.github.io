@@ -20,16 +20,42 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 | https://podaac-tools.jpl.nasa.gov/soto  | PHP  | JavaScript  | Apache | Drupal  | Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL  | Amazon  | - | Amazon cloud front  | CrazyEgg  | Leaflet  | Content Cell  | html5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter | -  | -  |
 
 <table class="tg">
+  
   <tr>
-    <th class="tg-baqh" colspan="2">Some values</th>
+ <th class="tg-baqh">URL</th>
+ <th class="tg-baqh">Back-end (server-side PL)</th>
+ <th class="tg-baqh">Front-end (client-side PL)</th>
+ <th class="tg-baqh">Web-server</th>
+ <th class="tg-baqh">Content Management System</th>
+ <th class="tg-baqh">Widget</th>
+ <th class="tg-baqh">OS and severs</th>
+ <th class="tg-baqh">Framework</th>
+ <th class="tg-baqh">Web-hosting provider</th>
+ <th class="tg-baqh">Content delivery network </th>
+ <th class="tg-baqh">Analytics and tracking  </th>
+ <th class="tg-baqh">mapping </th>
+ <th class="tg-baqh">image file formats </th>
+ <th class="tg-baqh">JS libraries </th>
+  <th class="tg-baqh">Other technologies </th>
+  <th class="tg-baqh">Evaluation </th>
   </tr>
   <tr>
-    <th class="tg-baqh">Material</th>
-    <th class="tg-baqh">Value</th>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A</td>
-    <td class="tg-baqh">0.75</td>
+ <th class="tg-baqh">http://navigator.oceansdata.ca/public/</th>
+ <th class="tg-baqh"> Python</th>
+ <th class="tg-baqh">reactJS</th>
+ <th class="tg-baqh">Gunicorn </th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">StackPath BootstrapCDN</th>
+ <th class="tg-baqh">- </th>
+ <th class="tg-baqh">OpenLayers </th>
+ <th class="tg-baqh">PNG</th>
+ <th class="tg-baqh">JQuery </th>
+  <th class="tg-baqh">- </th>
+  <th class="tg-baqh">- </th>
   </tr>
   <tr>
     <td class="tg-baqh">B</td>
@@ -55,6 +81,6 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 
 
 ## Sources: 
-https://w3techs.com/
-https://builtwith.com/
+### https://w3techs.com/
+### https://builtwith.com/
 
