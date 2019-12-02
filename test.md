@@ -1,6 +1,6 @@
 # Geospatial Data Explorers
 
-The link to this page is [this](https://hmarvi.github.io/index.html)
+The link to this page is [this](https://hmarvi.github.io/test.html)
 
 ## Selected websites out of 12
 
