@@ -13,7 +13,8 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 | URL  | Back-end (server-side PL) | Front-end (client-side PL)  | Web-server | Content Management System | Widget | OS and severs  | Framework | Web-hosting provider  | Content delivery network | Analytics and tracking  | mapping | image file formats  | JS libraries | Other technologies  | Evaluation |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | https://sensors.ioos.us/#map  | PHP  | JavaScript  | nginx  | -  | Font Awesome, Google Font API  | -  | CExpressJS  | Amazon  | GStatic Google Static Content Usage Statistics  | -  | Leaflet  | Not sure! (xhr request??!) | Backbone.js, Marionette, underscore, D3, Hogan  | Node.Js's frame work (ExpressJs)  | Best among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons.  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+ https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5  | PHP  | JavaScript  | Apache | Drupal  | MailChimp, Font Awesome, ThemePunch  | - | -  | -  | -  | -  | -  | PNG, JPEG, bmp  | Hammer, JQuery, utilJS, Onion,JS,CommonJS  | OWL Carousel  | - |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
+| https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5  | PHP  | JavaScript  | Apache 
