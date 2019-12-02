@@ -12,12 +12,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 
 
 # Comparison and Evaluation of Selected Websites
-| URL  | Back-end (server-side PL) | Front-end (client-side PL)  | Web-server | Content Management System | Widget | OS and severs  | Framework | Web-hosting provider  | Content delivery network | Analytics and tracking  | mapping | image file formats  | JS libraries | Other technologies  | Evaluation |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| http://navigator.oceansdata.ca/public/  | Python  | reactJS  | Gunicorn  | -  | -  | -  | -  | -  | StackPath BootstrapCDN  | -  | OpenLayers  | PNG | JQuery  | - | - |
-| https://sensors.ioos.us/#map  | PHP  | JavaScript  | nginx  | -  | Font Awesome, Google Font API  | -  | CExpressJS  | Amazon  | GStatic Google Static Content Usage Statistics  | -  | Leaflet  | Not sure! (xhr request??!) | Backbone.js, Marionette, underscore, D3, Hogan  | Node.Js's frame work (ExpressJs)  | Best among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons.  |
- https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5  | PHP  | JavaScript  | Apache | Drupal  | MailChimp, Font Awesome, ThemePunch  | - | -  | -  | -  | -  | -  | PNG, JPEG, bmp  | Hammer, JQuery, utilJS, Onion,JS,CommonJS  | OWL Carousel  | - |
-| https://podaac-tools.jpl.nasa.gov/soto  | PHP  | JavaScript  | Apache | Drupal  | Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL  | Amazon  | - | Amazon cloud front  | CrazyEgg  | Leaflet  | Content Cell  | html5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter | -  | -  |
+
 
 <table class="tg">
   
@@ -58,25 +53,61 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <th class="tg-baqh">- </th>
   </tr>
   <tr>
-    <td class="tg-baqh">B</td>
-    <td class="tg-baqh">0.47</td>
+    <th class="tg-baqh">https://sensors.ioos.us/#map</th>
+ <th class="tg-baqh">PHP</th>
+ <th class="tg-baqh">JavaScript</th>
+ <th class="tg-baqh">nginx </th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">Font Awesome, Google Font API</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">CExpressJS</th>
+ <th class="tg-baqh">Amazon</th>
+ <th class="tg-baqh">GStatic Google Static Content Usage Statistics </th>
+ <th class="tg-baqh">- </th>
+ <th class="tg-baqh">Leaflet</th>
+ <th class="tg-baqh">Not sure! (xhr request??!)</th>
+ <th class="tg-baqh">Backbone.js, Marionette, underscore, D3, Hogan  </th>
+  <th class="tg-baqh"> Node.Js's frame work (ExpressJs)</th>
+  <th class="tg-baqh">est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </th>
   </tr>
   <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">0.4 - 0.7</td>
+ <th class="tg-baqh">https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
+ <th class="tg-baqh">PHP</th>
+ <th class="tg-baqh">JavaScript</th>
+ <th class="tg-baqh">Apache</th>
+ <th class="tg-baqh">Drupal</th>
+ <th class="tg-baqh">MailChimp, Font Awesome, ThemePunch </th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">- </th>
+ <th class="tg-baqh">PNG, JPEG, bmp </th>
+ <th class="tg-baqh">Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
+  <th class="tg-baqh">OWL Carousel </th>
+  <th class="tg-baqh">-</th>
   </tr>
+  
   <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">1.0 - 1.8</td>
+ <th class="tg-baqh">https://podaac-tools.jpl.nasa.gov/soto </th>
+ <th class="tg-baqh">PHP</th>
+ <th class="tg-baqh">JavaScript</th>
+ <th class="tg-baqh">Apache</th>
+ <th class="tg-baqh">Drupal</th>
+ <th class="tg-baqh">Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
+ <th class="tg-baqh">Amazon</th>
+ <th class="tg-baqh">-</th>
+ <th class="tg-baqh">Amazon cloud front</th>
+ <th class="tg-baqh">CrazyEgg </th>
+ <th class="tg-baqh">Leaflet</th>
+ <th class="tg-baqh">Content Cell </th>
+ <th class="tg-baqh">image file formats </th>
+ <th class="tg-baqh">Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
+  <th class="tg-baqh">-</th>
+  <th class="tg-baqh">-</th>
   </tr>
-  <tr>
-    <td class="tg-baqh">S</td>
-    <td class="tg-baqh">0.15 - 2.0</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">W</td>
-    <td class="tg-baqh">0.07 - 0.17</td>
-  </tr>
+  
 </table>
 
 
