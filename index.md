@@ -13,9 +13,57 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 
 # Comparison and Evaluation of Selected Websites
 
+<style>
+  main {
+  padding: 1em;
+}
 
+.table-wrapper {
+  overflow: auto;
+    max-width: 100%;
+    background:
+        linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+        linear-gradient(to right, rgba(255,255,255,0), white 70%) 0 100%,
+        radial-gradient(farthest-side at 0% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)),
+        radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 0 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+  background-position: 0 0, 100%, 0 0, 100%;
+    background-attachment: local, local, scroll, scroll;
+}
+
+tr {
+  border-bottom: 1px solid;
+}
+
+th {
+  background-color: #555;
+  color: #fff;
+  white-space: nowrap;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.5em 1em;
+}
+
+.numeric {
+  text-align: right;
+}
+
+p {
+  text-align: right;
+  margin-top: 1em;
+  font-style: italic;
+}
+
+</style>
+<main>
+  <div class="table-wrapper" tabindex="0">
 <table >
-  
+   <thead>
   <tr>
  <th >URL</th>
  <th >Back-end (server-side PL)</th>
@@ -32,8 +80,10 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
  <th >image file formats </th>
  <th >JS libraries </th>
   <th >Other technologies </th>
-  <th >Evaluation </th>
+    <th >Evaluation </th>
   </tr>
+      <thead>
+        <tbody>
   <tr>
   <td > <a href="http://navigator.oceansdata.ca/public/">Ocean Navigator </a></td>
  <td > Python</td>
@@ -70,10 +120,47 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <td > Node.Js's frame work (ExpressJs)</td>
   <td >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </td>
   </tr>
+  <tr>
+ <th >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
+ <th >PHP</th>
+ <th >JavaScript</th>
+ <th >Apache</th>
+ <th >Drupal</th>
+ <th >MailChimp, Font Awesome, ThemePunch </th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >- </th>
+ <th >PNG, JPEG, bmp </th>
+ <th >Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
+  <th >OWL Carousel </th>
+  <th >-</th>
+  </tr>
   
-  
+  <tr>
+ <th >https://podaac-tools.jpl.nasa.gov/soto </th>
+ <th >PHP</th>
+ <th >JavaScript</th>
+ <th >Apache</th>
+ <th >Drupal</th>
+ <th >Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
+ <th >Amazon</th>
+ <th >-</th>
+ <th >Amazon cloud front</th>
+ <th >CrazyEgg </th>
+ <th >Leaflet</th>
+ <th >Content Cell </th>
+ <th >image file formats </th>
+ <th >Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
+  <th >-</th>
+  <th >-</th>
+  </tr>
+  </tbody>
 </table>
-
+</div>
+</main>
 
 ## Sources: 
 ### https://w3techs.com/
