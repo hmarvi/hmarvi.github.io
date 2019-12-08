@@ -53,60 +53,24 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <td >- </td>
   </tr>
   <tr>
-    <th >https://sensors.ioos.us/#map</th>
- <th >PHP</th>
- <th >JavaScript</th>
- <th >nginx </th>
- <th >-</th>
- <th >Font Awesome, Google Font API</th>
- <th >-</th>
- <th >CExpressJS</th>
- <th >Amazon</th>
- <th >GStatic Google Static Content Usage Statistics </th>
- <th >- </th>
- <th >Leaflet</th>
- <th >Not sure! (xhr request??!)</th>
- <th >Backbone.js, Marionette, underscore, D3, Hogan  </th>
-  <th > Node.Js's frame work (ExpressJs)</th>
-  <th >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </th>
-  </tr>
-  <tr>
- <th >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
- <th >PHP</th>
- <th >JavaScript</th>
- <th >Apache</th>
- <th >Drupal</th>
- <th >MailChimp, Font Awesome, ThemePunch </th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >- </th>
- <th >PNG, JPEG, bmp </th>
- <th >Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
-  <th >OWL Carousel </th>
-  <th >-</th>
+    <td >https://sensors.ioos.us/#map</td>
+    <td >PHP</td>
+ <td >JavaScript</td>
+ <td >nginx </td>
+ <td >-</td>
+ <td >Font Awesome, Google Font API</td>
+ <td >-</td>
+ <td >CExpressJS</td>
+ <td >Amazon</td>
+ <td >GStatic Google Static Content Usage Statistics </td>
+ <td >- </td>
+ <td >Leaflet</td>
+ <td >Not sure! (xhr request??!)</td>
+ <td >Backbone.js, Marionette, underscore, D3, Hogan  </td>
+  <td > Node.Js's frame work (ExpressJs)</td>
+  <td >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </td>
   </tr>
   
-  <tr>
- <th >https://podaac-tools.jpl.nasa.gov/soto </th>
- <th >PHP</th>
- <th >JavaScript</th>
- <th >Apache</th>
- <th >Drupal</th>
- <th >Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
- <th >Amazon</th>
- <th >-</th>
- <th >Amazon cloud front</th>
- <th >CrazyEgg </th>
- <th >Leaflet</th>
- <th >Content Cell </th>
- <th >image file formats </th>
- <th >Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
-  <th >-</th>
-  <th >-</th>
-  </tr>
   
 </table>
 
