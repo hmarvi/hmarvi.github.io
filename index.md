@@ -17,95 +17,95 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 <table class="tg">
   
   <tr>
- <th class="tg-baqh">URL</th>
- <th class="tg-baqh">Back-end (server-side PL)</th>
- <th class="tg-baqh">Front-end (client-side PL)</th>
- <th class="tg-baqh">Web-server</th>
- <th class="tg-baqh">Content Management System</th>
- <th class="tg-baqh">Widget</th>
- <th class="tg-baqh">OS and severs</th>
- <th class="tg-baqh">Framework</th>
- <th class="tg-baqh">Web-hosting provider</th>
- <th class="tg-baqh">Content delivery network </th>
- <th class="tg-baqh">Analytics and tracking  </th>
- <th class="tg-baqh">mapping </th>
- <th class="tg-baqh">image file formats </th>
- <th class="tg-baqh">JS libraries </th>
-  <th class="tg-baqh">Other technologies </th>
-  <th class="tg-baqh">Evaluation </th>
+ <th >URL</th>
+ <th >Back-end (server-side PL)</th>
+ <th >Front-end (client-side PL)</th>
+ <th >Web-server</th>
+ <th >Content Management System</th>
+ <th >Widget</th>
+ <th >OS and severs</th>
+ <th >Framework</th>
+ <th >Web-hosting provider</th>
+ <th >Content delivery network </th>
+ <th >Analytics and tracking  </th>
+ <th >mapping </th>
+ <th >image file formats </th>
+ <th >JS libraries </th>
+  <th >Other technologies </th>
+  <th >Evaluation </th>
   </tr>
   <tr>
- <th class="tg-baqh">http://navigator.oceansdata.ca/public/</th>
- <th class="tg-baqh"> Python</th>
- <th class="tg-baqh">reactJS</th>
- <th class="tg-baqh">Gunicorn </th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">StackPath BootstrapCDN</th>
- <th class="tg-baqh">- </th>
- <th class="tg-baqh">OpenLayers </th>
- <th class="tg-baqh">PNG</th>
- <th class="tg-baqh">JQuery </th>
-  <th class="tg-baqh">- </th>
-  <th class="tg-baqh">- </th>
+ <th >http://navigator.oceansdata.ca/public/</th>
+ <th > Python</th>
+ <th >reactJS</th>
+ <th >Gunicorn </th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >StackPath BootstrapCDN</th>
+ <th >- </th>
+ <th >OpenLayers </th>
+ <th >PNG</th>
+ <th >JQuery </th>
+  <th >- </th>
+  <th >- </th>
   </tr>
   <tr>
-    <th class="tg-baqh">https://sensors.ioos.us/#map</th>
- <th class="tg-baqh">PHP</th>
- <th class="tg-baqh">JavaScript</th>
- <th class="tg-baqh">nginx </th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">Font Awesome, Google Font API</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">CExpressJS</th>
- <th class="tg-baqh">Amazon</th>
- <th class="tg-baqh">GStatic Google Static Content Usage Statistics </th>
- <th class="tg-baqh">- </th>
- <th class="tg-baqh">Leaflet</th>
- <th class="tg-baqh">Not sure! (xhr request??!)</th>
- <th class="tg-baqh">Backbone.js, Marionette, underscore, D3, Hogan  </th>
-  <th class="tg-baqh"> Node.Js's frame work (ExpressJs)</th>
-  <th class="tg-baqh">est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </th>
+    <th >https://sensors.ioos.us/#map</th>
+ <th >PHP</th>
+ <th >JavaScript</th>
+ <th >nginx </th>
+ <th >-</th>
+ <th >Font Awesome, Google Font API</th>
+ <th >-</th>
+ <th >CExpressJS</th>
+ <th >Amazon</th>
+ <th >GStatic Google Static Content Usage Statistics </th>
+ <th >- </th>
+ <th >Leaflet</th>
+ <th >Not sure! (xhr request??!)</th>
+ <th >Backbone.js, Marionette, underscore, D3, Hogan  </th>
+  <th > Node.Js's frame work (ExpressJs)</th>
+  <th >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </th>
   </tr>
   <tr>
- <th class="tg-baqh">https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
- <th class="tg-baqh">PHP</th>
- <th class="tg-baqh">JavaScript</th>
- <th class="tg-baqh">Apache</th>
- <th class="tg-baqh">Drupal</th>
- <th class="tg-baqh">MailChimp, Font Awesome, ThemePunch </th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">- </th>
- <th class="tg-baqh">PNG, JPEG, bmp </th>
- <th class="tg-baqh">Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
-  <th class="tg-baqh">OWL Carousel </th>
-  <th class="tg-baqh">-</th>
+ <th >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
+ <th >PHP</th>
+ <th >JavaScript</th>
+ <th >Apache</th>
+ <th >Drupal</th>
+ <th >MailChimp, Font Awesome, ThemePunch </th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >-</th>
+ <th >- </th>
+ <th >PNG, JPEG, bmp </th>
+ <th >Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
+  <th >OWL Carousel </th>
+  <th >-</th>
   </tr>
   
   <tr>
- <th class="tg-baqh">https://podaac-tools.jpl.nasa.gov/soto </th>
- <th class="tg-baqh">PHP</th>
- <th class="tg-baqh">JavaScript</th>
- <th class="tg-baqh">Apache</th>
- <th class="tg-baqh">Drupal</th>
- <th class="tg-baqh">Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
- <th class="tg-baqh">Amazon</th>
- <th class="tg-baqh">-</th>
- <th class="tg-baqh">Amazon cloud front</th>
- <th class="tg-baqh">CrazyEgg </th>
- <th class="tg-baqh">Leaflet</th>
- <th class="tg-baqh">Content Cell </th>
- <th class="tg-baqh">image file formats </th>
- <th class="tg-baqh">Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
-  <th class="tg-baqh">-</th>
-  <th class="tg-baqh">-</th>
+ <th >https://podaac-tools.jpl.nasa.gov/soto </th>
+ <th >PHP</th>
+ <th >JavaScript</th>
+ <th >Apache</th>
+ <th >Drupal</th>
+ <th >Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
+ <th >Amazon</th>
+ <th >-</th>
+ <th >Amazon cloud front</th>
+ <th >CrazyEgg </th>
+ <th >Leaflet</th>
+ <th >Content Cell </th>
+ <th >image file formats </th>
+ <th >Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
+  <th >-</th>
+  <th >-</th>
   </tr>
   
 </table>
