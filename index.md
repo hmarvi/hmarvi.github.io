@@ -35,7 +35,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <th >Evaluation </th>
   </tr>
   <tr>
- <th >http://navigator.oceansdata.ca/public/</th>
+  <th > <a href="http://navigator.oceansdata.ca/public/">Ocean Navigator </a></th>
  <th > Python</th>
  <th >reactJS</th>
  <th >Gunicorn </th>
