@@ -13,8 +13,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 
 # Comparison and Evaluation of Selected Websites
 
-<main>
-  <div class="table-wrapper" tabindex="0">
+
 <table >
    <thead>
   <tr>
@@ -112,8 +111,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   </tr>
   </tbody>
 </table>
-</div>
-</main>
+
 
 ## Sources: 
 ### https://w3techs.com/
