@@ -74,41 +74,41 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <td >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </td>
   </tr>
   <tr>
- <th >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </th>
- <th >PHP</th>
- <th >JavaScript</th>
- <th >Apache</th>
- <th >Drupal</th>
- <th >MailChimp, Font Awesome, ThemePunch </th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >- </th>
- <th >PNG, JPEG, bmp </th>
- <th >Hammer, JQuery, utilJS, Onion,JS,CommonJS </th>
-  <th >OWL Carousel </th>
-  <th >-</th>
+ <td >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </td>
+ <td >PHP</td>
+ <td >JavaScript</td>
+ <td >Apache</td>
+ <td >Drupal</td>
+ <td >MailChimp, Font Awesome, tdemePunch </td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >- </td>
+ <td >PNG, JPEG, bmp </td>
+ <td >Hammer, JQuery, utilJS, Onion,JS,CommonJS </td>
+  <td >OWL Carousel </td>
+  <td >-</td>
   </tr>
   
   <tr>
- <th >https://podaac-tools.jpl.nasa.gov/soto </th>
- <th >PHP</th>
- <th >JavaScript</th>
- <th >Apache</th>
- <th >Drupal</th>
- <th >Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </th>
- <th >Amazon</th>
- <th >-</th>
- <th >Amazon cloud front</th>
- <th >CrazyEgg </th>
- <th >Leaflet</th>
- <th >Content Cell </th>
- <th >image file formats </th>
- <th >Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</th>
-  <th >-</th>
-  <th >-</th>
+ <td >https://podaac-tools.jpl.nasa.gov/soto </td>
+ <td >PHP</td>
+ <td >JavaScript</td>
+ <td >Apache</td>
+ <td >Drupal</td>
+ <td >Sitelinks search box , Google tag manager  | Red Hat enterprise linux, Open SSL </td>
+ <td >Amazon</td>
+ <td >-</td>
+ <td >Amazon cloud front</td>
+ <td >CrazyEgg </td>
+ <td >Leaflet</td>
+ <td >Content Cell </td>
+ <td >image file formats </td>
+ <td >Jhtml5shiv, Modernizr, jQuery, jQuery once,  jQuery UI, jQuery UI Tabs, Tablesorter</td>
+  <td >-</td>
+  <td >-</td>
   </tr>
   </tbody>
 </table>
