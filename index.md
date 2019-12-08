@@ -55,8 +55,8 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <td >- </td>
   </tr>
   <tr>
-    <td >https://sensors.ioos.us/#map</td>
-    <td >PHP</td>
+  <td><a href="https://sensors.ioos.us/#map">IOOS</a> </td>
+  <td >PHP</td>
  <td >JavaScript</td>
  <td >nginx </td>
  <td >-</td>
@@ -72,8 +72,8 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <td > Node.Js's frame work (ExpressJs)</td>
   <td >est among these. Works both with hovering and clicking (sp less data is rendered on the fly). I like the hegxagons. </td>
   </tr>
-  <tr>
- <td >https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5 </td>
+ <tr>
+ <td><a href="https://test-www.ogsl.ca/octo/?mapextent=-7347086.392356057,6621293.722740165,5">OGSL</a> </td>
  <td >PHP</td>
  <td >JavaScript</td>
  <td >Apache</td>
@@ -92,7 +92,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   </tr>
   
   <tr>
- <td >https://podaac-tools.jpl.nasa.gov/soto </td>
+ <td><a href="https://podaac-tools.jpl.nasa.gov/soto">NASA</a> </td>
  <td >PHP</td>
  <td >JavaScript</td>
  <td >Apache</td>
