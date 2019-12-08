@@ -35,22 +35,22 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
   <th >Evaluation </th>
   </tr>
   <tr>
-  <th > <a href="http://navigator.oceansdata.ca/public/">Ocean Navigator </a></th>
- <th > Python</th>
- <th >reactJS</th>
- <th >Gunicorn </th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >-</th>
- <th >StackPath BootstrapCDN</th>
- <th >- </th>
- <th >OpenLayers </th>
- <th >PNG</th>
- <th >JQuery </th>
-  <th >- </th>
-  <th >- </th>
+  <td > <a href="http://navigator.oceansdata.ca/public/">Ocean Navigator </a></td>
+ <td > Python</td>
+ <td >reactJS</td>
+ <td >Gunicorn </td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >-</td>
+ <td >StackPath BootstrapCDN</td>
+ <td >- </td>
+ <td >OpenLayers </td>
+ <td >PNG</td>
+ <td >JQuery </td>
+  <td >- </td>
+  <td >- </td>
   </tr>
   <tr>
     <th >https://sensors.ioos.us/#map</th>
