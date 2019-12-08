@@ -14,7 +14,7 @@ The link to this page is [this](https://hmarvi.github.io/index.html)
 # Comparison and Evaluation of Selected Websites
 
 
-<table style="width:300px" >
+<table style="width:100px" >
   
   <tr>
  <th >URL</th>
